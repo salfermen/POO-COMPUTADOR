@@ -10,7 +10,7 @@ public class computador {
 
     /**
      * Constructor de la clase
-     * @param CPU Nombre del animal
+     * @param CPU Nombre del procesadord
      * @param GPU Nombre de la grafica
      * @param RAM capacidad de la memoria RAM
      * @param HDD_SSD_Usage capacidad de memoria del disco duro/estado solido
